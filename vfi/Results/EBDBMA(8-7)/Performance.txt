@@ -1,0 +1,2 @@
+Total time for 5 frames: 9s
+Average per frame: 2300ms
