@@ -1,0 +1,2 @@
+Total time for 180 frames: 672s
+Average per frame: 3754ms
